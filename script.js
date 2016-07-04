@@ -1,4 +1,4 @@
 var omicron = function() {
-	console.log("Hey! This works!");
+	console.log("Hey this works!");
 }
 omicron();
